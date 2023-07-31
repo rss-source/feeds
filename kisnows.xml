@@ -2,7 +2,167 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.kisnows.com/archives/</id>
     <title>抹桥的博客</title>
-    <updated>2023-07-31T03:39:09.874Z</updated>
+    <updated>2023-07-31T14:39:05.241Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://blog.kisnows.com/archives/favicon.ico</icon>
+    <icon>https://blog.kisnows.com/images/favicon-32x32-next.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 年终总结]]></title>
+        <id>https://blog.kisnows.com/archives/</id>
+        <link href="https://blog.kisnows.com/archives/"/>
+        <updated>2023-07-31T14:38:49.862Z</updated>
+        <content type="html"><![CDATA[<div class="post-meta">
+<time itemprop="dateCreated" datetime="2023-01-01T11:25:32+08:00" content="2023-01-01">
+01-01
+</time>
+</div>
+<div class="post-title">
+<a class="post-title-link" href="/2023/01/01/2022-year-end-summary/" itemprop="url">
+<span itemprop="name">2022 年终总结</span>
+</a>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021 年终总结]]></title>
+        <id>https://blog.kisnows.com/archives/</id>
+        <link href="https://blog.kisnows.com/archives/"/>
+        <updated>2023-07-31T14:38:49.863Z</updated>
+        <content type="html"><![CDATA[<div class="post-meta">
+<time itemprop="dateCreated" datetime="2021-12-31T14:01:21+08:00" content="2021-12-31">
+12-31
+</time>
+</div>
+<div class="post-title">
+<a class="post-title-link" href="/2021/12/31/2021-year-end-summary/" itemprop="url">
+<span itemprop="name">2021 年终总结</span>
+</a>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[阿里工作三年总结]]></title>
+        <id>https://blog.kisnows.com/archives/</id>
+        <link href="https://blog.kisnows.com/archives/"/>
+        <updated>2023-07-31T14:38:49.863Z</updated>
+        <content type="html"><![CDATA[<div class="post-meta">
+<time itemprop="dateCreated" datetime="2021-06-04T08:55:54+08:00" content="2021-06-04">
+06-04
+</time>
+</div>
+<div class="post-title">
+<a class="post-title-link" href="/2021/06/04/three-years-summary-for-alibaba-work-experience/" itemprop="url">
+<span itemprop="name">阿里工作三年总结</span>
+</a>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[店铺体验优化总结]]></title>
+        <id>https://blog.kisnows.com/archives/</id>
+        <link href="https://blog.kisnows.com/archives/"/>
+        <updated>2023-07-31T14:38:49.881Z</updated>
+        <content type="html"><![CDATA[<div class="post-meta">
+<time itemprop="dateCreated" datetime="2021-04-28T16:41:08+08:00" content="2021-04-28">
+04-28
+</time>
+</div>
+<div class="post-title">
+<a class="post-title-link" href="/2021/04/28/shop-performance-improve/" itemprop="url">
+<span itemprop="name">店铺体验优化总结</span>
+</a>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[五分钟接入流式渲染]]></title>
+        <id>https://blog.kisnows.com/archives/</id>
+        <link href="https://blog.kisnows.com/archives/"/>
+        <updated>2023-07-31T14:38:49.885Z</updated>
+        <content type="html"><![CDATA[<div class="post-meta">
+<time itemprop="dateCreated" datetime="2021-03-23T09:27:36+08:00" content="2021-03-23">
+03-23
+</time>
+</div>
+<div class="post-title">
+<a class="post-title-link" href="/2021/03/23/egg-spart-a-way-to-stream-render-you-page/" itemprop="url">
+<span itemprop="name">五分钟接入流式渲染</span>
+</a>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows10 中 thunderbolt3 接口的故障排查经历]]></title>
+        <id>https://blog.kisnows.com/archives/</id>
+        <link href="https://blog.kisnows.com/archives/"/>
+        <updated>2023-07-31T14:38:49.886Z</updated>
+        <content type="html"><![CDATA[<div class="post-meta">
+<time itemprop="dateCreated" datetime="2021-03-04T14:22:37+08:00" content="2021-03-04">
+03-04
+</time>
+</div>
+<div class="post-title">
+<a class="post-title-link" href="/2021/03/04/a-thunderbolt3-question-on-windows/" itemprop="url">
+<span itemprop="name">Windows10 中 thunderbolt3 接口的故障排查经历</span>
+</a>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2020 年终总结]]></title>
+        <id>https://blog.kisnows.com/archives/</id>
+        <link href="https://blog.kisnows.com/archives/"/>
+        <updated>2023-07-31T14:38:49.891Z</updated>
+        <content type="html"><![CDATA[<div class="post-meta">
+<time itemprop="dateCreated" datetime="2020-12-31T16:03:20+08:00" content="2020-12-31">
+12-31
+</time>
+</div>
+<div class="post-title">
+<a class="post-title-link" href="/2020/12/31/2020-year-end-summary/" itemprop="url">
+<span itemprop="name">2020 年终总结</span>
+</a>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[财务不自由之路 ———— 美股期权简介（一）]]></title>
+        <id>https://blog.kisnows.com/archives/</id>
+        <link href="https://blog.kisnows.com/archives/"/>
+        <updated>2023-07-31T14:38:49.896Z</updated>
+        <content type="html"><![CDATA[<div class="post-meta">
+<time itemprop="dateCreated" datetime="2020-11-10T20:16:00+08:00" content="2020-11-10">
+11-10
+</time>
+</div>
+<div class="post-title">
+<a class="post-title-link" href="/2020/11/10/stock-options/" itemprop="url">
+<span itemprop="name">财务不自由之路 ———— 美股期权简介（一）</span>
+</a>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为自己配置的第二台 PC]]></title>
+        <id>https://blog.kisnows.com/archives/</id>
+        <link href="https://blog.kisnows.com/archives/"/>
+        <updated>2023-07-31T14:38:49.899Z</updated>
+        <content type="html"><![CDATA[<div class="post-meta">
+<time itemprop="dateCreated" datetime="2020-10-12T14:08:47+08:00" content="2020-10-12">
+10-12
+</time>
+</div>
+<div class="post-title">
+<a class="post-title-link" href="/2020/10/12/a-new-pc-on-2020/" itemprop="url">
+<span itemprop="name">为自己配置的第二台 PC</span>
+</a>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2019 年终总结]]></title>
+        <id>https://blog.kisnows.com/archives/</id>
+        <link href="https://blog.kisnows.com/archives/"/>
+        <updated>2023-07-31T14:38:49.906Z</updated>
+        <content type="html"><![CDATA[<div class="post-meta">
+<time itemprop="dateCreated" datetime="2020-03-08T16:03:20+08:00" content="2020-03-08">
+03-08
+</time>
+</div>
+<div class="post-title">
+<a class="post-title-link" href="/2020/03/08/2019-year-end-summary/" itemprop="url">
+<span itemprop="name">2019 年终总结</span>
+</a>
+</div>]]></content>
+    </entry>
 </feed>
