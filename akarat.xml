@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://akarat.xyz/</id>
     <title>Tristram</title>
-    <updated>2023-10-29T03:39:39.178Z</updated>
+    <updated>2023-10-29T14:39:14.306Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://akarat.xyz/images/favicon-192x192.png</icon>
     <entry>
@@ -198,18 +198,6 @@
 </span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[提取并加载数据湖[PDF]]]></title>
-        <id>https://akarat.xyz/%E6%8F%90%E5%8F%96%E5%B9%B6%E5%8A%A0%E8%BD%BD%E6%95%B0%E6%8D%AE%E6%B9%96/</id>
-        <link href="https://akarat.xyz/%E6%8F%90%E5%8F%96%E5%B9%B6%E5%8A%A0%E8%BD%BD%E6%95%B0%E6%8D%AE%E6%B9%96/"/>
-        <updated>2022-12-06T11:14:01.644Z</updated>
-        <content type="html"><![CDATA[<div class="meta">
-<time datetime="2019-11-21T14:40:19.000Z" itemprop="datePublished">2019-11-21</time>
-</div>
-<span>
-<a class="" href="/%E6%8F%90%E5%8F%96%E5%B9%B6%E5%8A%A0%E8%BD%BD%E6%95%B0%E6%8D%AE%E6%B9%96/">提取并加载数据湖[PDF]</a>
-</span>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[数据复杂性的四个阶段[PDF]]]></title>
         <id>https://akarat.xyz/%E6%95%B0%E6%8D%AE%E5%A4%8D%E6%9D%82%E6%80%A7%E7%9A%84%E5%9B%9B%E4%B8%AA%E9%98%B6%E6%AE%B5/</id>
         <link href="https://akarat.xyz/%E6%95%B0%E6%8D%AE%E5%A4%8D%E6%9D%82%E6%80%A7%E7%9A%84%E5%9B%9B%E4%B8%AA%E9%98%B6%E6%AE%B5/"/>
@@ -219,6 +207,18 @@
 </div>
 <span>
 <a class="" href="/%E6%95%B0%E6%8D%AE%E5%A4%8D%E6%9D%82%E6%80%A7%E7%9A%84%E5%9B%9B%E4%B8%AA%E9%98%B6%E6%AE%B5/">数据复杂性的四个阶段[PDF]</a>
+</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[提取并加载数据湖[PDF]]]></title>
+        <id>https://akarat.xyz/%E6%8F%90%E5%8F%96%E5%B9%B6%E5%8A%A0%E8%BD%BD%E6%95%B0%E6%8D%AE%E6%B9%96/</id>
+        <link href="https://akarat.xyz/%E6%8F%90%E5%8F%96%E5%B9%B6%E5%8A%A0%E8%BD%BD%E6%95%B0%E6%8D%AE%E6%B9%96/"/>
+        <updated>2022-12-06T11:14:01.644Z</updated>
+        <content type="html"><![CDATA[<div class="meta">
+<time datetime="2019-11-21T14:40:19.000Z" itemprop="datePublished">2019-11-21</time>
+</div>
+<span>
+<a class="" href="/%E6%8F%90%E5%8F%96%E5%B9%B6%E5%8A%A0%E8%BD%BD%E6%95%B0%E6%8D%AE%E6%B9%96/">提取并加载数据湖[PDF]</a>
 </span>]]></content>
     </entry>
     <entry>
