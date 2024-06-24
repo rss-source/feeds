@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rss-source.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-06-24T03:39:32.506Z</updated>
+    <updated>2024-06-24T14:39:22.252Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[mp4文件加入字幕显示 (heartnn的自留地)]]></title>
+        <id>https://www.heartnn.com/2024/06/24/mp4-add-subtitle/</id>
+        <link href="https://www.heartnn.com/2024/06/24/mp4-add-subtitle/"/>
+        <updated>2024-06-24T14:39:03.901Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.heartnn.com/2024/06/24/mp4-add-subtitle/">mp4文件加入字幕显示</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[利用MP4Box解出tx3g格式字幕 (heartnn的自留地)]]></title>
         <id>https://www.heartnn.com/2022/12/09/mp4-subtitle-usage/</id>
