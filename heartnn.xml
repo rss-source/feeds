@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.heartnn.com/archives/</id>
     <title>heartnn的自留地</title>
-    <updated>2024-12-14T14:41:21.265Z</updated>
+    <updated>2024-12-15T03:53:14.864Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.heartnn.com/archives/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[升级群晖到7.21]]></title>
+        <id>https://www.heartnn.com/2024/12/15/update-synology-7.21/</id>
+        <link href="https://www.heartnn.com/2024/12/15/update-synology-7.21/"/>
+        <updated>2024-12-15T03:52:59.023Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.heartnn.com/2024/12/15/update-synology-7.21/">升级群晖到7.21</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[mp4文件加入字幕显示]]></title>
         <id>https://www.heartnn.com/2024/06/24/mp4-add-subtitle/</id>
